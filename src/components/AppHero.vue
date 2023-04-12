@@ -1,15 +1,14 @@
 <script>
-export default{
+export default {
     name: "AppHero",
-    data(){
-        return{
-           
+    data() {
+        return {
+
         }
     }
 }
 </script>
 <template>
-   <img src="../assets/img/retro.jpg" alt="">
+    <img src="../assets/img/retro.jpg" alt="">
 </template>
-<style>
-</style>
+<style></style>

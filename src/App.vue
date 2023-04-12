@@ -20,8 +20,13 @@ export default {
 </template>
 
 <style>
-h1{
-  color: whitesmoke;
+h1 {
+  color: cornflowerblue;
+  font-style: oblique;
+  font-size: 1.5rem;
 }
+img{
+  border: 5px dotted whitesmoke;
 
+}
 </style>
